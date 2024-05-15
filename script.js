@@ -13,7 +13,12 @@ const poems = [
     author: "Ernie",
     poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
     image: "bee.jpeg",
-  },  
+  },
+  {
+    author: "Kris",
+    poem: "Roses are red \n Violets are blue \n Kris is considering \n Making Bee Movie 2",
+    image: "random-image.jpg",
+  }, 
   {
     author: "Grace",
     poem: "Roses are red \n Violets are blue\n roses are red—whoa, déjà vu!",
