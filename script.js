@@ -17,7 +17,7 @@ const poems = [
   {
     author: "Kris",
     poem: "Roses are red \n Violets are blue \n Kris is considering \n Making Bee Movie 2",
-    image: "sunflower.jpeg",
+    image: "random-image.jpg",
   }  
 ];
 
